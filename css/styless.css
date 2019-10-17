@@ -1,0 +1,23 @@
+body{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+back
+}
+.container{
+  display: none;
+  width: 100%;
+  height: 200px;
+  background-image: url("../img/bg2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+#second{
+  background-image: url("../img/bg17.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+  width: 100%;
+  height: 900px;
+}
